@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(55, 55, 131);
+}
+h1{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+ul{
+    display: flex;
+    
+    
+}
+.city-name{
+display: inline-block;
+color: gray;
+}
+.city-temp{
+    display: inline-block;
+    font-size: 50px;
+    
+}
+.city-icon{
+    width: 80px;
+    height:80px;
+}
+li{
+    background-color:aliceblue;
+    display: inline-block;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    margin: 1%;
+}
+figure{
+    margin: 0px;
+
+}
+sup{
+    font-size: 20px;
+}
+
